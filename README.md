@@ -1,4 +1,4 @@
-# OperatingSystems-ProcessScheduling
+# ProcessScheduling
 
 <ul>
   <li> About: This program implements preemptive priority-based process scheduling
